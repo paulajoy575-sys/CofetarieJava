@@ -1,0 +1,4 @@
+Carrot Cake;2250.0;128.0;1200.0
+Red Berry Cheesecake;600.0;128.0;1200.0
+Lava Cake;2200.0;20.0;220.0
+Tiramisu;2400.0;16.0;1200.0
